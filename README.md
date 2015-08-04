@@ -22,6 +22,7 @@ A simple java-based Hangman game created on 2012
 5.By default the admin,
 
 username = "admin"
+
 password = "admin"
 
 6.Enjoy.
